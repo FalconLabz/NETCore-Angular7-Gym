@@ -1,14 +1,5 @@
 # ASPNET-Core-Angular-7-Project
 
-<img src="https://github.com/saineshwar/Angular-7-Project-with-ASP.NET-CORE-APIS-/blob/master/Images/banner.png?raw=true" alt="Banner" title="Banner" style="max-width:100%;">
-
-## Info 
-Pay :- ₹ 100 For India Users https://imjo.in/QDdBze for getting database scripts.
-
-Pay :- $ 3.00 here https://payhip.com/b/vJ1L for getting database scripts.
-
-## If you are new to Angular Must Watch Video How to Learn Angular in 1 hour
-[![Learn Angular](https://github.com/saineshwar/ASPNET-Core-Angular-7-Project/blob/master/Images/hqdefault.jpg)](https://www.youtube.com/watch?v=FV2MXOygDTM "Learn Angular")
 ## Getting Started
 
 This project contains good features which are required in all project which are developed in industries nowadays.
@@ -62,21 +53,21 @@ Password :- 123456<br>
 
 ### Complete Project Structure
 
-<img src="https://github.com/saineshwar/ASPNET-Core-Angular-7-Project/blob/master/Images/1.png?raw=true" alt="Banner" title="Banner" style="max-width:100%;">
+<img src="https://github.com/FalconLabz/ASPNET-Core-Angular-7-Project/blob/master/Images/1.png?raw=true" alt="Banner" title="Banner" style="max-width:100%;">
 
 ### Angular Project Structure
-<img src="https://github.com/saineshwar/ASPNET-Core-Angular-7-Project/blob/master/Images/6.png?raw=true" alt="Banner" title="Banner" style="max-width:100%;">
+<img src="https://github.com/FalconLabz/ASPNET-Core-Angular-7-Project/blob/master/Images/6.png?raw=true" alt="Banner" title="Banner" style="max-width:100%;">
 
 ### Login Admin
-<img src="https://github.com/saineshwar/ASPNET-Core-Angular-7-Project/blob/master/Images/2.jpg?raw=true" alt="Banner" title="Banner" style="max-width:100%;">
+<img src="https://github.com/FalconLabz/ASPNET-Core-Angular-7-Project/blob/master/Images/2.jpg?raw=true" alt="Banner" title="Banner" style="max-width:100%;">
 
 ### Admin View
-<img src="https://github.com/saineshwar/ASPNET-Core-Angular-7-Project/blob/master/Images/3.jpg?raw=true" alt="Banner" title="Banner" style="max-width:100%;">
+<img src="https://github.com/FalconLabz/ASPNET-Core-Angular-7-Project/blob/master/Images/3.jpg?raw=true" alt="Banner" title="Banner" style="max-width:100%;">
 
 ### User View
-<img src="https://github.com/saineshwar/ASPNET-Core-Angular-7-Project/blob/master/Images/4.jpg?raw=true" alt="Banner" title="Banner" style="max-width:100%;">
+<img src="https://github.com/FalconLabz/ASPNET-Core-Angular-7-Project/blob/master/Images/4.jpg?raw=true" alt="Banner" title="Banner" style="max-width:100%;">
 
 ### Add Member
-<img src="https://github.com/saineshwar/ASPNET-Core-Angular-7-Project/blob/master/Images/5.jpg?raw=true" alt="Banner" title="Banner" style="max-width:100%;">
+<img src="https://github.com/FalconLabz/ASPNET-Core-Angular-7-Project/blob/master/Images/5.jpg?raw=true" alt="Banner" title="Banner" style="max-width:100%;">
 
 
